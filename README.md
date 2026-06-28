@@ -45,6 +45,11 @@ Works with any launcher that uses a standard `.minecraft` directory structure, i
 - PojavLauncher
 - Fold Craft Launcher
 - HMCL-PE
+- MojoLauncher
+- AmethystLauncher
+- CopperLauncher
+- HyperXLauncher
+- And other launchers!
 
 #### 🚀 How to Use
 1. Download the latest APK from the [Releases](https://github.com/chappcG/LAUNCHER-TOOLS/releases) page.
@@ -66,13 +71,8 @@ Works with any launcher that uses a standard `.minecraft` directory structure, i
 
 ---
 
-## 🤝 Contributing
-Have an idea for a new tool or want to improve an existing one? 
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+## 📝 Notes
+This is currently closed source for now due to verification issues.
 
 ---
 
