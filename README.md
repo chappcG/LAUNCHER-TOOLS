@@ -76,9 +76,4 @@ This is currently closed source for now due to verification issues.
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 *Disclaimer: This project is not affiliated with Mojang Studios, Microsoft, Modrinth, or CurseForge.*
