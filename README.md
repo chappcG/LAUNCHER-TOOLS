@@ -8,14 +8,16 @@ If your favorite launcher doesn't have a feature you need, you'll likely find a 
 
 ## 📸 Screenshots
 
-![](Screenshot_20260628-114535.jpg)
+### Modpack Exporter
+<p align="center">
+  <img src="Screenshot_20260628-114535.jpg" width="45%">
+  <img src="Screenshot_20260628-114607.jpg" width="45%">
+</p>
 
-![](Screenshot_20260628-114607.jpg)
-
-![](Screenshot_20260628-114610.jpg)
-
-![](Screenshot_20260628-114621.jpg)
-
+<p align="center">
+  <img src="Screenshot_20260628-114610.jpg" width="45%">
+  <img src="Screenshot_20260628-114621.jpg" width="45%">
+</p>
 ## 📦 Available Tools
 
 ### 1. Modpack Exporter (Android)
