@@ -6,6 +6,17 @@ If your favorite launcher doesn't have a feature you need, you'll likely find a 
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Screen](Screenshot_20260628-11...)
+
+### File Browser
+![File Browser](Screenshot_20260628-11...)
+
+### Export Options
+![Export](Screenshot_20260628-11...)
+
 ## 📦 Available Tools
 
 ### 1. Modpack Exporter (Android)
